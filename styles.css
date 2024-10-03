@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Zen+Loop:ital@0;1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+body{
+    background-image: url(/resource/fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+h1{
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 1px 1px 5px black;
+    text-transform: uppercase;
+}
+.container-divs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    gap: 20px;
+}
+.cd{
+    background-color: black;
+}
+a{
+    display: inline-block;;
+}
+
+.img-logo{
+    max-width: 300px;
+    filter: drop-shadow(1px 1px 5px black);
+    transition: all .3s;
+}
+.img-logo:hover{
+    transform: scale(1.2);
+}
+
+@media (max-width: 650px){
+    
+    .container-divs{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 30px;
+        gap: 20px;
+    }
+    a{
+        display: inline-block;;
+    }
+    
+    .img-logo{
+        max-width: 300px;
+        filter: drop-shadow(1px 1px 5px black);
+        transition: all .3s;
+    }
+    .img-logo:hover{
+        transform: scale(1.2);
+    }
+}

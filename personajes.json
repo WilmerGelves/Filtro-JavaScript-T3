@@ -1,0 +1,108 @@
+{
+    "marvel": {
+        "spider-man": {
+            "nombre": "spider man",
+            "fecha": "agosto de 1962",
+            "poder":["agil","telaraña"],
+            "img":"https://image.api.playstation.com/vulcan/ap/rnd/202009/3021/5ayReKkz8RaBVuTvrxgA3rvh.png"
+        },
+        "ironman": {
+            "nombre":"iron man",
+            "fecha": "marzo de 1963",
+            "poder":["inteligente","rico"],
+            "img": "https://lumiere-a.akamaihd.net/v1/images/ebo_ironman2_sp_da36dda0.jpeg?region=128,0,768,768"
+        },
+        "capitan-marvel": {
+            "nombre":"capitan amercia ",
+            "fecha": "7 de marzo de 2019",
+            "poder":["fuerte","escudo de poder"],
+            "img": "https://estaticos.elcolombiano.com/binrepository/580x872/0c10/580d365/none/11101/GBFJ/capitan-america_37326520_20210310181935.jpg"
+        },
+        "viuda-negra": {
+            "nombre":"viuda negra",
+            "fecha": "9 de julio de 2021",
+            "poder":["sexi","maneja armamento"],
+            "img": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/MYZPSS3ZUZPQLLBEGNGNBNGLZQ.jpg"
+        },
+        "hulk": {
+            "nombre":"hulk",
+            "fecha": "mayo de 1962",
+            "poder":["fuerte","grandes saltos"],
+            "img": "https://w7.pngwing.com/pngs/347/781/png-transparent-hulk-marvel-heroes-2016-black-widow-clint-barton-captain-america-hulk-the-incredible-hulk-illustration-comics-avengers-superhero-thumbnail.png"
+        },
+        "thor": {
+            "nombre":"thor",
+            "fecha": "29 de abril de 2011",
+            "poder":["martillo","dios del trueno"],
+            "img": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/MYZPSS3ZUZPQLLBEGNGNBNGLZQ.jpg"
+        },
+        "doctor-strange": {
+            "nombre":"doctor strange",
+            "fecha": "26 de octubre de 2016",
+            "poder":["mago","poderes"],
+            "img": "https://revistahush.com/wp-content/uploads/2023/04/Doctor-Stange-7.webp"
+        },
+        "black-panther": {
+            "nombre":"black panther",
+            "fecha": "16 de febrero de 2018",
+            "poder":["agil","fuerte"],
+            "img": "https://ironusa.vtexassets.com/arquivos/ids/192798/090357_0.jpg?v=637909345411270000"
+        },
+        "venom": {
+            "nombre":"venom",
+            "fecha": "26 de octubre de 2016",
+            "poder":["mago","poderes"],
+            "img": "https://hips.hearstapps.com/hmg-prod/images/venom-2-fotogramas-1634239260.png?crop=0.566xw:1.00xh;0.168xw,0&resize=1200:*"
+        },
+        "tormenta": {
+            "nombre":"Tormenta",
+            "fecha": "26 de octubre de 2016",
+            "poder":["mago","poderes"],
+            "img": "https://pm1.aminoapps.com/6881/82d7667293384685482ab009e4e8f358d6997e17r1-538-729v2_uhq.jpg"
+        }
+    },
+    "dc": {
+        "super-man":{
+            "nombre":"super man ",
+            "fecha": "26 de octubre de 2016",
+            "poder":["super fuerza","rayos lacer"],
+            "img": "https://img.europapress.es/fotoweb/fotonoticia_20240411155644_690.jpg"
+        },
+        "batman":{
+            "nombre":"batman",
+            "fecha": "26 de octubre de 2016",
+            "poder":["rico","agil"],
+            "img": "https://www.shutterstock.com/image-vector/batman-design-logo-sign-icon-600nw-2317334183.jpg"
+        },
+        "wonder-woman":{
+            "nombre":"wonder women",
+            "fecha": "26 de octubre de 2016",
+            "poder":["sexi","pelea berracamente"],
+            "img": "https://www.mundodeportivo.com/alfabeta/hero/2023/11/wonder-woman.1698964414.6042.jpg?width=800"
+        },
+        "linterna-verde":{
+            "nombre":"linterna verde",
+            "fecha": "26 de octubre de 2016",
+            "poder":["anillo de poder","habil"],
+            "img": "https://dcfanscolombia.com/wp-content/uploads/2023/05/Linterna-Verde-Hal-Jordan-La-historia-iluminada-dc-comis-1.jpg.webp"
+        },
+        "shazam":{
+            "nombre":"shazam",
+            "fecha": "26 de octubre de 2016",
+            "poder":["super fuerza","vuela"],
+            "img": "https://w7.pngwing.com/pngs/131/430/png-transparent-shazam-thumbnail.png"
+        },
+        " flash":{
+            "nombre":"flash",
+            "fecha": "26 de octubre de 2016",
+            "poder":["super velocidad",""],
+            "img": "https://img.posterstore.com/zoom/wb0143-8theflash-running50x70.jpg"
+        },
+        "flecha-verde":{
+            "nombre":"flecha verde",
+            "fecha": "26 de octubre de 2016",
+            "poder":["punteria"," armamento"],
+            "img": "https://i.pinimg.com/originals/aa/84/ea/aa84ea9b80684d9c742bf5abe4e454a5.jpg"
+        }
+    }
+}
